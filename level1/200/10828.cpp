@@ -1,4 +1,4 @@
-// 10828번 스택 실버4
+// 10828 silver4
 
 #include <iostream>
 #include <stack>
