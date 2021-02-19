@@ -1,6 +1,7 @@
+// 9012 silver 4
+
 #include<iostream>
 #include<string>
-
 using namespace std;
 string valid(string v) {
 	int cnt = 0;
