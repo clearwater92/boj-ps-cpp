@@ -1,0 +1,11 @@
+// 2743 bronze 2
+
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s;
+    cin >> s;
+    cout << s.size() << '\n';
+    return 0;
+}
